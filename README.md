@@ -1,6 +1,4 @@
 ## Hi 👋, I'm Domingos Santiago!
-
-## Sobre mim
 Tenho experiência em liderança, com foco na gestão e desenvolvimento de pessoas, aliada a habilidades em comunicação, planejamento estratégico e resiliência. Mas eu sou movido a desafios, e foi isso que me levou a virar a chave e entrar de cabeça no mundo da tecnologia. 
 
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na {Facudade Senac}.
