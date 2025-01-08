@@ -1,12 +1,12 @@
-Hi 👋, I'm Domingos Santiago!
+## Hi 👋, I'm Domingos Santiago!
 
 ## Sobre mim
+Tenho experiência em liderança, com foco na gestão e desenvolvimento de pessoas, aliada a habilidades em comunicação, planejamento estratégico e resiliência. Mas eu sou movido a desafios, e foi isso que me levou a virar a chave e entrar de cabeça no mundo da tecnologia. 
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na {Facudade Senac}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
-
-## Minhas Skills
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 📱  UX/UI Design, áreas com a qual me identifiquei desde o princípio, voltadas a promover uma melhor experiência do usuário em interfaces de produtos digitais.
+- 🧑‍💻 Atualmente estou me dedicando ao desenvolvimento front-end, aprofundando conhecimentos em linguagens como HTML, CSS e JavaScript.
 
 **Aplicações e dados**
 
@@ -27,9 +27,3 @@ Hi 👋, I'm Domingos Santiago!
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/domingos-s-santiago/)](https://www.linkedin.com/in/domingos-s-santiago/)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/karpedom)
