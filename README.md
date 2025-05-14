@@ -1,10 +1,16 @@
 ## Hi 👋, I'm Domingos Santiago!
-Tenho experiência em liderança, com foco na gestão e desenvolvimento de pessoas, aliada a habilidades em comunicação, planejamento estratégico e resiliência. Mas eu sou movido a desafios, e foi isso que me levou a virar a chave e entrar de cabeça no mundo da tecnologia. 
+Sou apaixonado por aprender, compartilhar conhecimento e transformar ideias em soluções úteis. Depois de anos trabalhando com pessoas, processos e performance em atendimento e operações, decidi dar um novo passo: migrei para a área de tecnologia com o propósito de criar experiências digitais que unam funcionalidade e empatia.
 
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na {Facudade Senac}.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 📱  UX/UI Design, áreas com a qual me identifiquei desde o princípio, voltadas a promover uma melhor experiência do usuário em interfaces de produtos digitais.
-- 🧑‍💻 Atualmente estou me dedicando ao desenvolvimento front-end, aprofundando conhecimentos em linguagens como HTML, CSS e JavaScript.
+- 🧑‍💻 Atualmente estou me dedicando ao desenvolvimento fullstack, aprofundando conhecimentos em linguagens JavaScript/TypeScript, Java (com Spring Boot) e SQL e desenvolvendo projetos com Angular e React.
+
+## 🛠️ Meus repositórios reúnem:
+
+- Projetos acadêmicos e pessoais com tecnologias web
+- Protótipos e estudos de UX/UI
+- APIs e aplicações backend em desenvolvimento
 
 **Meus conhecimentos**
 
