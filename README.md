@@ -1,16 +1,23 @@
 ## Hi 👋, I'm Domingos Santiago!
-Sou apaixonado por aprender, compartilhar conhecimento e transformar ideias em soluções úteis. Depois de anos trabalhando com pessoas, processos e performance em atendimento e operações, decidi dar um novo passo: migrei para a área de tecnologia com o propósito de criar experiências digitais que unam funcionalidade e empatia.
+Sou formado em jornalismo, tenho experiência com gestão de pessoas e atualmente estou no 2º período do curso de Análise e Desenvolvimento de Sistemas. Na jornada para me tornar um desenvolvedor Fullstack.
 
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na {Facudade Senac}.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 📱  UX/UI Design, áreas com a qual me identifiquei desde o princípio, voltadas a promover uma melhor experiência do usuário em interfaces de produtos digitais.
 - 🧑‍💻 Atualmente estou me dedicando ao desenvolvimento fullstack, aprofundando conhecimentos em linguagens JavaScript/TypeScript, Java (com Spring Boot) e SQL e desenvolvendo projetos com Angular e React.
 
+Conheça mais sobre mim: https://dominuuus.github.io/portfolio/
+
+![image](https://github.com/user-attachments/assets/ec211504-3c12-4e96-b47b-cbb535fa5872)
+
+
+
 ## 🛠️ Meus repositórios reúnem:
 
 - Projetos acadêmicos e pessoais com tecnologias web
 - Protótipos e estudos de UX/UI
 - APIs e aplicações backend em desenvolvimento
+
 
 **Meus conhecimentos**
 
